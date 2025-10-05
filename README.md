@@ -38,4 +38,4 @@ cd gaza-daily-deaths-dashboard
 pip install -r requirements.txt
 
 # Run the Streamlit app
-streamlit run app_streamlit.py
+streamlit run dashboard.py
