@@ -1,4 +1,4 @@
-# 🕊️ Daily Deaths Monitor — Gaza
+# Daily Deaths Monitor — Gaza
 
 This Streamlit dashboard visualizes daily and cumulative deaths in Gaza, using open data provided by the **Tech For Palestine** collective via the [Palestine API](https://github.com/ummahrican/palestine-api).  
 It was inspired by the [Genocide Monitor](https://genocidemonitor.com/) project.
