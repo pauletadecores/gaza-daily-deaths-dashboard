@@ -29,7 +29,7 @@ These statistics reflect casualties **directly attributable to the genocide in G
 
 ## 🎨 Theme configuration
 
-This project includes a custom Streamlit configuration file (.streamlit/config.toml) defining a dark theme.
+This project includes a custom Streamlit configuration file (.streamlit/config.toml) defining a dark theme. This ensures visual consistency and readability across all elements of the dashboard.
 
 ---
 
@@ -45,4 +45,9 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run dashboard.py
+```
+---
 
+## 💡 Acknowledgments
+
+This project is inspired by the Genocide Monitor
